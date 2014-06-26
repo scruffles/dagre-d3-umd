@@ -1,0 +1,18 @@
+{
+  "name": "dagre-d3-umd",
+  "version": "0.2.0",
+  "private": true,
+  "description": "dagre-d3 umd",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andrvb/dagre-d3-umd.git"
+  },
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "dagre-d3": "~0.2.0",
+    "cjs-umd": "git://github.com/nicolashery/cjs-umd.git#0.1.0"
+  }
+}

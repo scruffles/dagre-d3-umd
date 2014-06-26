@@ -1,0 +1,24 @@
+{
+  "name": "dagre-d3-umd",
+  "version": "0.2.0",
+  "description": "dagre-d3 umd",
+  "main": "dagre-d3.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "dagre",
+    "d3"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
