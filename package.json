@@ -12,7 +12,7 @@
   },
   "license": "BSD-2-Clause",
   "dependencies": {
-    "dagre-d3": "~0.2.0",
+    "dagre-d3": "~0.3.2",
     "cjs-umd": "git://github.com/nicolashery/cjs-umd.git#0.1.0"
   }
 }
